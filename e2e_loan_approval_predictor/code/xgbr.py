@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan  1 22:27:08 2025
+XGboost to predict loan approval 
+Accuracy: ~98%
 
 @author: alima
 """
