@@ -1,5 +1,6 @@
 ﻿cd code
 mkdir e2e_loan_approval_predictor
+cd e2e_loan_approval_predictor
 python --version
 
 python -m venv venv
