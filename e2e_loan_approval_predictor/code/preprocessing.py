@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan  1 20:00:22 2025
+Preprocessing of loan approval Kaggle data
 
 @author: alima
 """
