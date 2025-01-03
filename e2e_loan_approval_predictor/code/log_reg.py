@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan  1 21:43:17 2025
+Logistics regression to predict loan approval
+Accuracy : ~80%
 
 @author: alima
 """
