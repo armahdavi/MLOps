@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Logistics regression to predict loan approval
+Logistic regression to predict loan approval
 Accuracy : ~80%
 
 @author: alima
