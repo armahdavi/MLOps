@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan  1 22:56:50 2025
+Program to run FastAPI to deploy loan approval predictor by LR, RF, and XGBoost models
 
 @author: alima
 """
