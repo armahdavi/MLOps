@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan  1 22:09:58 2025
+Random forest to predict loan approval 
+Accuracy: ~97%
 
 @author: alima
 """
