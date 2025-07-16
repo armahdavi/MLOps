@@ -1,0 +1,17 @@
+# Python cache and venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+*.egg-info/
+
+# VS Code and OS metadata
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data or secrets (optional)
+.env
+*.db
+*.pkl
